@@ -15,7 +15,7 @@ router.post('/mailsending', function (req, res) {
           secure: true,
           auth: {
               user: 'sujitpasalkar8@gmail.com',  // cmpny email id
-              pass: '8793648674' // cmpny password
+              pass: '87936486..' // cmpny password
           }
       }));
   
